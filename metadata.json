@@ -1,0 +1,7 @@
+{
+  "name": "Eat & Care",
+  "description": "A clinical-premium nutrition app featuring ingredient-first discovery, deep nutrient analysis, and a food compatibility safety engine.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
